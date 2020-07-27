@@ -1,12 +1,12 @@
 ﻿@model BookList.Models.Book
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Delete";
 }
 
-<h1>Details</h1>
+<br />
+<h2>Delete Book</h2>
 <hr />
-
-
+<form asp-action="Delete">
     <div class="row form-border">
         <div class="form-group">
             <div class="row">
@@ -21,10 +21,11 @@
         </div>
         <br />
         <div class="form-group">
-            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-sm btn-primary">Edit</a>
-            <a asp-action="Index"  class="btn btn-sm btn-success">Back To List</a>
+            <input type="submit" value="Delete" class="btn btn-sm btn-danger"/>
+            <input type="submit" asp-action="Index" value="Back to List" class="btn btn-sm btn-success"/>
         </div>
     </div>
+</form>
 
 
 

@@ -144,3 +144,5 @@ C:\Projects\BookList\obj\Debug\netcoreapp3.1\BookList.MvcApplicationPartsAssembl
 C:\Projects\BookList\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
 C:\Projects\BookList\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
 C:\Projects\BookList\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
+C:\Projects\BookList\obj\Debug\netcoreapp3.1\Razor\Views\Books\Delete.cshtml.g.cs
+C:\Projects\BookList\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
