@@ -143,3 +143,4 @@ C:\Projects\BookList\obj\Debug\netcoreapp3.1\BookList.csproj.CoreCompileInputs.c
 C:\Projects\BookList\obj\Debug\netcoreapp3.1\BookList.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\BookList\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
 C:\Projects\BookList\obj\Debug\netcoreapp3.1\Razor\Views\Books\Create.cshtml.g.cs
+C:\Projects\BookList\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
